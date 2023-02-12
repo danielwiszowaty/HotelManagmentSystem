@@ -3,6 +3,9 @@ package pl.danielwiszowaty.hotelmanagmentsystem;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author Daniel
+ */
 @SpringBootApplication
 public class HotelManagmentSystemApplication {
 
